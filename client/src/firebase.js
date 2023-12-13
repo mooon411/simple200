@@ -2,13 +2,12 @@ import firebase from "firebase/compat/app";
 import "firebase/compat/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBNEXnX2kzPXc_moPrnGD7tgc4WhsgOI3k",
-  authDomain: "zeroai-c5e02.firebaseapp.com",
-  projectId: "zeroai-c5e02",
-  storageBucket: "zeroai-c5e02.appspot.com",
-  messagingSenderId: "889879605351",
-  appId: "1:889879605351:web:3b57b1c26f0b4a3296a4c2",
-  measurementId: "G-H90PRFPHDR",
+  apiKey: "AIzaSyAEjZAsEDVsc81_m02gXUSx3hPk2ZtmS58",
+  authDomain: "react-blog-9a56e.firebaseapp.com",
+  projectId: "react-blog-9a56e",
+  storageBucket: "react-blog-9a56e.appspot.com",
+  messagingSenderId: "804534452099",
+  appId: "1:804534452099:web:60d99a49554928d22240b6",
 };
 
 firebase.initializeApp(firebaseConfig);

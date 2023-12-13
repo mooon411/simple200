@@ -1,6 +1,7 @@
 const express = require("express");
 const router = express.Router();
 
+// 스키마
 const { User } = require("../Model/User.js");
 const { Counter } = require("../Model/Counter.js");
 
